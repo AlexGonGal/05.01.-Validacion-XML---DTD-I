@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE biblioteca [
+    <!ELEMENT biblioteca (libro)>
+    <!ELEMENT libro (titulo, editorial, autor, paginas)>
+    <!ELEMENT titulo (#PCDATA)>
+    <!ELEMENT editorial (#PCDATA)>
+    <!ELEMENT autor (nombre, apellidos)>
+    <!ELEMENT nombre (#PCDATA)>
+    <!ELEMENT apellidos (#PCDATA)>
+    <!ELEMENT paginas (#PCDATA)>
+]>
+
+<biblioteca>
+    <libro>
+        <titulo>El maestro y Margarita</titulo>
+        <editorial>Ediciones Feltrinelli</editorial>
+        <autor>
+            <nombre>Mijaíl</nombre>
+            <apellidos>Bulgákov</apellidos>
+        </autor>
+        <paginas>384</paginas>
+    </libro>
+    <libro>
+        <titulo>La broma</titulo>
+        <editorial>Editorial Tusquets</editorial>
+        <autor>
+            <nombre>Milan</nombre>
+            <apellidos>Kundera</apellidos>
+        </autor>
+        <paginas>280</paginas>
+    </libro>
+    <libro>
+        <titulo>El hombre invisible</titulo>
+        <editorial>Editorial Alianza</editorial>
+        <autor>
+            <nombre>Ralph</nombre>
+            <apellidos>Ellison</apellidos>
+        </autor>
+        <paginas>608</paginas>
+    </libro>
+</biblioteca>
