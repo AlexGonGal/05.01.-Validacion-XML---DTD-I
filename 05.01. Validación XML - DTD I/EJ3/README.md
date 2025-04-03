@@ -1,0 +1,1 @@
+He creado una dtd con la que valido el codigo adjuntado siguiendo la estructura correspondiente para cubrir todos los datos que se necesitan.

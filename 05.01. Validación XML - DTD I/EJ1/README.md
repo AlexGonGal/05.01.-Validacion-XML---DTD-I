@@ -1,0 +1,1 @@
+En este caso, he creado la dtd internamente en el documento xml definiendo arriba cada elemento que se va a integrar en el codigo y como consecuencia, en el codigo he seguido la misma estructura en cada ejemplo.

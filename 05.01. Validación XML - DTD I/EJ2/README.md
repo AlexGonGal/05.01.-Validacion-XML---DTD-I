@@ -1,0 +1,1 @@
+He creado por una parte el documento xml y por otro lado la dtd. En la dtd, especifico los elemntos que se van a incluir en el codigo y los atributos que a su vez tienen mas de un elemento. En el codigo xml, simplemente he seguido la misma estructura en los 3 ejemplos.
